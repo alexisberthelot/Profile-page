@@ -1,0 +1,53 @@
+body {
+	background-color: beige;
+}
+
+header {
+	color: burlywood;
+	text-align: center;
+}
+
+#headdiv {
+	display: inline-block;
+	margin: 0 auto;
+}
+
+img {
+	width: 150px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+h1 {
+color: #bf7d40;
+text-align: center;
+}
+
+p {
+font-family: revert-layer;
+font-size: 20px;
+}
+
+a {
+
+}
+
+li {
+
+}
+
+#div1 {
+}
+
+#div2 {
+
+}
+
+#div3 {
+
+}
+
+footer {
+	text-align: center;
+	
+}
